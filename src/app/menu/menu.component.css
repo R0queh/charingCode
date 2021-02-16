@@ -3,3 +3,7 @@
     min-width: 100vh;
     min-height: 90vh;
 }
+
+#logo:hover{
+    width: 105%;
+}
